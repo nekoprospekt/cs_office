@@ -5,3 +5,22 @@
         <tooltip>From/By/Contributed,/ "INSERT NAME/LINK".</tooltip>
         </note>This is a note for other devs/contributors, there is no character limit, try not to fill with clutter, actually no I don't really care what your up to.</note>
  </item>
+
+<items>
+    <item>
+        <title>Example</title>
+        <url>#</url>
+        <description>Some text</description>
+        <tooltip>From/By/Contributed,/ "INSERT NAME/LINK".</tooltip>
+    </item>
+    <item>
+        <title>Example</title>
+        <url>#</url>
+        <description>Some text</description>
+        <tooltip>From/By/Contributed,/ "INSERT NAME/LINK".</tooltip>
+    </item>
+</items>
+
+
+
+Here is a template you can use. ↑ To insert more links:
